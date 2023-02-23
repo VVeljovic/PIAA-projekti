@@ -1,0 +1,16 @@
+File lorem100.txt was compressed to Binarniispis.bin with a compression of -104.999%
+File lorem1k.txt was compressed to Binarniispis.bin with a compression of 16.3%
+File lorem10k.txt was compressed to Binarniispis.bin with a compression of 41.66%
+File lorem100k.txt was compressed to Binarniispis.bin with a compression of 44.728%
+File lorem1M.txt was compressed to Binarniispis.bin with a compression of 45.0632%
+File lorem10M.txt was compressed to Binarniispis.bin with a compression of 45.09811%
+-----------Random----------
+File test100.txt was compressed to Binarniispis.bin with a compression of -471%
+File test1000.txt was compressed to Binarniispis.bin with a compression of -63.5%
+File test10000.txt was compressed to Binarniispis.bin with a compression of 8.95%
+File test100000.txt was compressed to Binarniispis.bin with a compression of 16.19199%
+File test1000000.txt was compressed to Binarniispis.bin with a compression of 16.9342%
+File test10000000.txt was compressed to Binarniispis.bin with a compression of 17.01106%
+
+
+
